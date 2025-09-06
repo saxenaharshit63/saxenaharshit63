@@ -1,4 +1,4 @@
-## Hi there! I am Harshit Saxena. 👋
+## Hi there! I am Harshit Saxena 👋
 
 <!--
 **saxenaharshit63/saxenaharshit63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
